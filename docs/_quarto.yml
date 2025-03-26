@@ -1,0 +1,8 @@
+project:
+ title: "Exercise-15"
+ output-dir: docs
+ type: website
+
+format:
+  html:
+    self-contained: true
